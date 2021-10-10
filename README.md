@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Krisko544
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning JavaScript and C++
+- 🌱 I’m currently learning JavaScript and C# and Html 
 - 💞️ I’m looking to collaborate on Whatever
-- 📫 How to reach me msg me on discord Krisko54#9768
+- 📫 You can reach me on contact.krismc@gmail.com
 
 <!---
 Krisko544/Krisko544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
